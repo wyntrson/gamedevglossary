@@ -2,7 +2,7 @@
 This is the place for a list of fancy-schmancy words that people in the game industry use.
 
 **Churn**\
-Churn is a metric that measures the number of users who have stopped playing a game over a certain period. In a free-to-play game, churn is often calculated as the number of users who have not played the game in 28 days. The 28-day period is a widely used benchmark to account for differences in play styles among users and to distinguish between casual and active players. By measuring churn in this way, game developers can get a sense of how many players are no longer playing their game and identify areas for improvement.\
+Churn is a metric that measures the number of users who have stopped playing a game over a certain period. In a free-to-play game, churn is often calculated as the number of users who have not played the game in 28 days. The 28-day period is a widely used benchmark to account for differences in play styles among users and to distinguish between casual and active players. By measuring churn in this way, game developers can get a sense of how many players are no longer playing their game and identify areas for improvement.
 
 
 **Retention**\
